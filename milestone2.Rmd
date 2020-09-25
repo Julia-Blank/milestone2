@@ -1,0 +1,46 @@
+---
+title: "milestone#2"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+#Milestone 1 for Julia Blank The first project I examined was the project called
+#"The FBI's Top Ten Most Wanted List". This project was an interesting
+#exploration of a cool topic. One thing I really liked about this project was my
+#ability to look at the maps of type of crime over various time periods. This
+#allowed me to see the evolution of crime that made it on the list in various
+#decades. Another thing I really liked about this project was the ability to
+#clearly parse through the demographics of the list both in total and by decade.
+#One thing I think could've made the project better is if they put the frequency
+#of each type of crime over time on one stacked graph. This would've allowed for
+#a better comparison across the types of crime instead of having to parse
+#through each one inidividually. Another thing that could've been improved were
+#his graphs on the special cases tab. The lack of color and the dark theme made
+#the graphs very unattractive and hard to read since both the lines and the
+#background were dark. I'd definitely change that for better visibility and a
+#more clean and clear visual.
+
+#The next project I looked at was "Worldwide Happiness Correlates". One thing I
+#liked about the project was the use of color to define region. I though it made
+#the graph visually appealing. Another I really liked was getting to choose
+#variables to examine correlation. This allowed for me to parse through and
+#analyze the various correlates to worldwide happiness. Despite these, this
+#project has a lot of flaws. For someone who doesn't understand R, this project
+#is pretty unaccessible. For example, if someone doesn't know what "facet wrap"
+#means, they won't understand how to see graphs by region. I, as a brand new R
+#user, would've not understood what that selector did two weeks ago.
+#Additionally, the size by GDP per capita function isn't clear to anyone who
+#doesn't use this R language. I wouldn't have known what it meant had I not just
+#done this in an exercise last week. These headers definitely need to be renamed
+#to help make this useable to a non-R user. Another thing that this project
+#could do better is summarizing the correlates and findings. It would've been
+#helpful to see a trendline to show the strength of correlation between
+#variables and happiness. Additionally, the summary of findings are tucked into
+#another page and not obvious. All in all, this project reminds me to  keep the
+#importance of labeling in mind when I create my own project.
+```
+
